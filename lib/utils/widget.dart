@@ -20,14 +20,6 @@ class GradientText extends StatelessWidget {
   }
 }
 
-List<BoxShadow> shadowBiru = [
-  BoxShadow(
-    color: wbiru,
-    blurRadius: 50,
-    offset: const Offset(12, 26),
-  )
-];
-
 class InputText extends StatelessWidget {
   final String? hint;
   final IconData? icon;

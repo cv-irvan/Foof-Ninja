@@ -9,3 +9,7 @@ part 'landing_two.dart';
 part 'login.dart';
 part 'registrasi.dart';
 part 'bio.dart';
+part 'payment.dart';
+part 'upload_photo.dart';
+part 'set_location.dart';
+part 'info_success.dart';
